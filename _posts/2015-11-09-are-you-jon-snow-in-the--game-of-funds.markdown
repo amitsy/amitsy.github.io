@@ -2,7 +2,7 @@
 title: Are you Jon Snow in the “Game of Funds”?
 layout: post
 date: '2015-11-09'
-image: assets/images/1*GlugbnOSeLCqg27EwI8tpg.png
+image: assets/images/1*uRUq6LVF2FJXIRL-IqQv1g.png
 author: amit
 ---
 

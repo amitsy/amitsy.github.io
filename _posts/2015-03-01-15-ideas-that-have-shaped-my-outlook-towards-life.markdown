@@ -1,11 +1,10 @@
 ---
-layout:	post
-title:	"15 ideas that have shaped my outlook towards life"
-date:	2015-03-01
-image: assets/images/1*iyLfrdH4G7B3Bgxtgq9Vdg.jpeg
+title: 15 ideas that have shaped my outlook towards life
+layout: post
+date: '2015-03-01'
 ---
 
-  ![](/assets/images/1*iyLfrdH4G7B3Bgxtgq9Vdg.jpeg)I have been feeling unproductive lately. Hence, wanted to make a playlist of all my favourite inspirational videos for easy access. Then decided to annotate them as well — to remember why I liked them. After much thought, decided to make a blog post instead (if I was going to do that much hard work anyways).
+![](/assets/images/1*iyLfrdH4G7B3Bgxtgq9Vdg.jpeg)I have been feeling unproductive lately. Hence, wanted to make a playlist of all my favourite inspirational videos for easy access. Then decided to annotate them as well — to remember why I liked them. After much thought, decided to make a blog post instead (if I was going to do that much hard work anyways).
 
 Here are 15 videos that have helped shape my outlook on life, career, religion, education and learning. Each of them contain certain unique ideas/theories that resonate with what I think about the world.
 
@@ -110,4 +109,4 @@ This talk by Josh Kaufman begins by stating how the current understanding of the
 
 
 > The order of magnitude from knowing absolutely nothing to being really good is about 20 hours — not 10,000 hours. 20 hours is 40 minutes a day for a month.
-> **Here’s the link to **[**original post**](http://amitsy.me/15-ideas-that-have-shaped-my-outlook-towards-life/)**.**  
+> **Here’s the link to **[**original post**](http://amitsy.me/15-ideas-that-have-shaped-my-outlook-towards-life/)**.**
