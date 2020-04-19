@@ -2,7 +2,7 @@
 title: 15 things I learnt while working at a VC firm for 30 days.
 layout: post
 date: '2014-12-27'
-image: assets/images/1*jxeM_7CZLR2bdGPt06VF-A.png
+image: assets/images/1*jJjXmc8P3tmLFjeZ9-GMew.jpeg
 author: amit
 ---
 
