@@ -1,12 +1,12 @@
 # Site
 name: 'Amit Singh Blog'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+description: 'Blog of Amit'
+logo: 'assets/images/1.jpg'
+favicon: 'assets/images/favicon.png'
 baseurl: ""
-disqus: 'demowebsite'
+disqus: 'amitsinghblog'
 email: 'amit1093@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://productstories.substack.com/'
 
 include: ["_pages"]
 permalink: /:title/
@@ -19,21 +19,15 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    amit:
+      name:           Amit Singh
+      site:           https://www.amitsingh.blog
+      avatar:         assets/images/profile.png
+      bio:            "Hi, I am Amit. Currently building Memer - a memesharing app. Ex-Kae Capital. IIT Bombay alumnus"
+      email:          amit1093@gmail.com
+      twitter:        https://twitter.com/iamitsy
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+  
  
 # Defaults
 defaults:
